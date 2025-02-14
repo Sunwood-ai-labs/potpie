@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <a href="https://potpie.ai?utm_source=github">
     <img src="https://github.com/user-attachments/assets/1a0b9824-833b-4c0a-b56d-ede5623295ca" width="318px" alt="Momentum logo" />
@@ -13,6 +15,13 @@
   <br />
 
   </p>
+
+<p align="center">
+  <a href="./README_ja.md">
+    <img src="https://img.shields.io/badge/README-Japanese-blue" alt="Japanese README">
+  </a>
+</p>
+
 
 <p align="center">
 
@@ -50,17 +59,25 @@ Potpie is an open-source platform that creates AI agents specialized in your cod
 </p>
 
 ## 📚 Table of Contents
-- [🥧 Why Potpie?](#why-potpie)
-- [🤖 Our Prebuilt Agents](#prebuilt-agents)
-- [🛠️ Tooling](#potpies-tooling-system)
-- [🚀 Getting Started](#getting-started)
-- [💡 Use Cases](#use-cases)
-- [🛠️ Custom Agents](#custom-agents-upgrade)
-- [🗝️ Accessing Agents via API Key](#accessing-agents-via-api-key)
-- [🎨 Make Potpie Your Own](#make-potpie-your-own)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
-- [💪 Contributors](#-thanks-to-all-contributors)
+- [📚 Table of Contents](#-table-of-contents)
+- [🥧 Why Potpie?](#-why-potpie)
+- [🔌 VSCode Extension](#-vscode-extension)
+- [🤖 Potpie's Prebuilt Agents](#-potpies-prebuilt-agents)
+- [🛠️ Potpie's Tooling System](#️-potpies-tooling-system)
+- [🚀 Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup Steps](#setup-steps)
+- [💡 Use Cases](#-use-cases)
+- [🛠️ Custom Agents Upgrade ✨](#️-custom-agents-upgrade-)
+- [🗝️ Accessing Agents via API Key](#️-accessing-agents-via-api-key)
+- [🎨 Make Potpie Your Own](#-make-potpie-your-own)
+  - [1. System Prompts Configuration](#1-system-prompts-configuration)
+  - [2. Add New Agents](#2-add-new-agents)
+  - [3. Agent Behavior Customization](#3-agent-behavior-customization)
+  - [4. Tool Integration](#4-tool-integration)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+- [💪 Thanks To All Contributors](#-thanks-to-all-contributors)
 
 
 ## 🥧 Why Potpie?

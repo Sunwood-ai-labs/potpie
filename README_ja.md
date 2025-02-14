@@ -1,13 +1,4 @@
 <p align="center">
-  <a href="https://github.com/potpie-ai/potpie/actions/workflows/main.yml">
-    <img src="https://github.com/potpie-ai/potpie/actions/workflows/main.yml/badge.svg" alt="Build Status">
-  </a>
-</p>
-
-
-# 🥧 Potpieへようこそ！
-
-<p align="center">
   <a href="https://potpie.ai?utm_source=github">
     <img src="https://github.com/user-attachments/assets/1a0b9824-833b-4c0a-b56d-ede5623295ca" width="318px" alt="Momentum logo" />
   </a>
