@@ -22,3 +22,4 @@ cli/momentum_cli/.momentum
 projects/
 # Ignore PyCharm config
 .idea
+.SourceSageAssets
